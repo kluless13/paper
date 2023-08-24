@@ -2,66 +2,25 @@
 
 ### YOLO for Real Time Species Detection - Application for better Conservation Management Efforts.
 
-## Invasive species detector
+_Brief description_:
 
-### Abstract (200 words)(keywords in alphabetical order)
+YOLO-REACT is a deep learning application harnessing the power of the YOLO (You Only Look Once) algorithm for real-time species detection. Our main aim is to bolster conservation management efforts by providing quick and accurate species recognition, leading to more effective monitoring and protection strategies.
 
-### Introduction
-- COTs (Crown of thorns starfish) - pain in Australia
-- Lionfish - Pain in the USA
+We begin with COTs which are native to Australia but are very harmful to coral reef. Besdies COTs, which is exists predominantly on the sea bed, we will also be creating an algorithm for Lionfisg, a known invasive species in Florida. 
 
-### Related Work
-- Work related to invasive species detection
-- Other object detection stuff in the marine field
-- CSIRO: COTs detection - https://arxiv.org/pdf/2111.14311v1.pdf
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10075425/#:~:text=This%20paper%20proposes%20a%20novel,classifying%20COTS%20using%20transfer%20learning.
-(COTS - threatening species in Australia a.k.a Marine Pest - CNN model - can't run in near real time)
-- https://github.com/SelendisErised/Crown-of-Thorns-Starfish-Detection (COTS - done with YOLOv5)
-- Lionfish: Invasive to the US - https://www.tandfonline.com/doi/full/10.1080/10641262.2012.700655 - direct removal is good.
-- Eradication tricky, needs more digging into: https://www.sciencedirect.com/science/article/pii/S0048969719328554
+_Expanded description_:
 
-### Network Architecture
-- Since it is real time detection we will test this out on five versions of YOLOv7 and YOLOv8, i.e., 10 models (n, s, m, l, x) and weigh their 
-pros and cons.
+YOLO-REACT is a cutting-edge deep learning application, leveraging the remarkable capabilities of the YOLO (You Only Look Once) algorithm for real-time species detection. In the age where rapid ecological changes challenge biodiversity, we believe that technology can be an ally. Our primary mission with YOLO-REACT is to supercharge conservation management endeavors. By offering instantaneous and precise species recognition, we pave the way for optimized monitoring and enhanced protection mechanisms.
 
-### Methodology
+The Why: Addressing Ecological Challenges
 
-#### Dataset Construction
+Crown-of-Thorns Starfish (COTs)
+Native to the vast waters surrounding Australia, the Crown-of-Thorns Starfish (COTs) is a predatory species that feeds on coral polyps. While a natural part of the ecosystem, periodic population surges lead to extensive coral predation, which can be catastrophic for coral reefs. These outbreaks reduce coral cover, decrease biodiversity, and affect the overall health and balance of the reef ecosystem.
 
-#### Enhancements of Custom Datasets
+With YOLO-REACT, we aim to monitor these population surges and map their spread. Early detection of COTs can inform targeted response efforts, enabling conservationists to manage and possibly prevent larger outbreaks.
 
-#### Object Detection
-##### Fine Tuning Parameters
-##### GPU Hardware
-##### Training 
-##### Evaluation Metrics
-TP and TN Values
-Precision and Recall
-Mean Average Precision (mAP)
-##### Visualizing Results
+Lionfish
 
-### Results
+The vibrant Lionfish, originally from the Indo-Pacific, has become an invasive species in the waters of Florida and the broader Atlantic. Their rapid reproduction rate combined with a lack of natural predators in these new regions has led to an imbalance. Lionfish compete with native species for food, leading to reduced biodiversity and altered behaviors of native marine life.
 
-#### Quantitative Results
-
-#### Evaluation Results
-##### Object Detection
-##### Inference Speed 
-
-#### Qualitative Results
-
-### Discussion
-
-#### Points of Improvement
-
-##### Data Augmentation
-##### Dataset Improvements
-##### Camera Improvements
-
-### Code and Dataset Availability
-
-### Conclusion
-
-### Future Work
-
-### Acknowledgements 
+Our commitment extends to creating a specialized algorithm that can identify and track the spread of Lionfish populations. By doing so, we can support initiatives that aim to control and manage their population, ensuring a balanced and thriving marine ecosystem.
