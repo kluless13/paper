@@ -6,6 +6,8 @@
 - COTs (Crown of thorns starfish) - pain in Australia
 - Lionfish - Pain in the USA
 - The paper underscores the ecological challenges posed by invasive species, using COTs in Australia and Lionfish in the USA as primary examples.
+- Objectives:
+    - Best model for each of the two case studies
 
 ### Related Work
 - Work related to invasive species detection

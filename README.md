@@ -8,7 +8,7 @@ _Brief description_:
 
 YOLO-REACT is a deep learning application harnessing the power of the YOLO (You Only Look Once) algorithm for real-time species detection. Our main aim is to bolster conservation management efforts by providing quick and accurate species recognition, leading to more effective monitoring and protection strategies.
 
-We begin with COTs which are native to Australia but are very harmful to coral reef. Besdies COTs, which is exists predominantly on the sea bed, we will also be creating an algorithm for Lionfisg, a known invasive species in Florida. 
+We begin with COTs which are native to Australia but are very harmful to coral reef. Besdies COTs, which exists predominantly on the sea bed, we will also be creating an algorithm for Lionfish, a known invasive species in Florida. 
 
 _Expanded description_:
 
