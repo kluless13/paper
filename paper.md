@@ -11,6 +11,7 @@
 
 ### Related Work
 - Work related to invasive species detection
+- DeepPlastic: https://arxiv.org/pdf/2105.01882.pdf
 - Other object detection stuff in the marine field
 - CSIRO: COTs detection - https://arxiv.org/pdf/2111.14311v1.pdf
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10075425/#:~:text=This%20paper%20proposes%20a%20novel,classifying%20COTS%20using%20transfer%20learning.
