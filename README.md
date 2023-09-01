@@ -4,6 +4,8 @@
 
 YOLOv7 and YOLOv8 each have 5 variations, that will be tested on 2 datasets. This means we will produce results for 20 models in total.
 
+```yolov7_LF is final production code```
+
 _Brief description_:
 
 YOLO-REACT is a deep learning application harnessing the power of the YOLO (You Only Look Once) algorithm for real-time species detection. Our main aim is to bolster conservation management efforts by providing quick and accurate species recognition, leading to more effective monitoring and protection strategies.
