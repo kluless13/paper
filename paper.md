@@ -28,11 +28,7 @@
 - Since it is real time detection we will test this out on five versions of YOLOv7 and YOLOv8, i.e., 10 models (w6, e6, d6, e6e) & (n, s, m, l, x) and weigh their pros and cons.
 - The research seeks to explore the real-time detection capabilities of five versions each of YOLOv7 and YOLOv8. 
 - The intention here is a comparative analysis of the strengths and weaknesses of each version.
-- In the final result, we will compare the two algorithms against each other with their 5 main evaluation metrics - the mAP score, the Precision curve, the Recall curve, and the PR curve.
-- This means that we will have a total of 50 unique values for each algorithm. In total, there will be 100 unique values to extrapolate information from. 
-- The final result table will have these columns: Model name, Dataset, mAP score, F1 score, P curve, R curve, and PR curve.
-- We will also observe the confusion matrices to further understand how confused these models get as we are simply creating object detectors for a unique organism; no complicated binary object classifiers. We believe in reductionism: the simpler the model, the better.
-- There will be a confusion matrix for each model - so 20 confusion matrices, giving us a grand total of 120 results. Fuck yeah.
+- Will describe the differences between YOLOv7 and YOLOv8.
 
 ### Methodology
 #### Dataset Construction
@@ -53,6 +49,11 @@ Mean Average Precision (mAP)
 ##### Object Detection
 ##### Inference Speed 
 #### Qualitative Results
+- In the final result, we will compare the two algorithms against each other with their 5 main evaluation metrics - the mAP score, the Precision curve, the Recall curve, and the PR curve.
+- This means that we will have a total of 50 unique values for each algorithm. In total, there will be 100 unique values to extrapolate information from. 
+- The final result table will have these columns: Model name, Dataset, mAP score, F1 score, P curve, R curve, and PR curve.
+- We will also observe the confusion matrices to further understand how confused these models get as we are simply creating object detectors for a unique organism; no complicated binary object classifiers. We believe in reductionism: the simpler the model, the better.
+- There will be a confusion matrix for each model - so 20 confusion matrices, giving us a grand total of 120 results. Fuck yeah.
 
 ### Discussion
 #### Points of Improvement
