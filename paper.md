@@ -50,10 +50,10 @@ Mean Average Precision (mAP)
 ##### Inference Speed 
 #### Qualitative Results
 - In the final result, we will compare the two algorithms against each other with their 5 main evaluation metrics - the mAP score, the Precision curve, the Recall curve, and the PR curve.
-- This means that we will have a total of 50 unique values for each algorithm. In total, there will be 100 unique values to extrapolate information from. 
+- This means that we will have a total of 5 unique values for each algorithm. In total, there will be 10 unique values to extrapolate information from. 
 - The final result table will have these columns: Model name, Dataset, mAP score, F1 score, P curve, R curve, and PR curve.
 - We will also observe the confusion matrices to further understand how confused these models get as we are simply creating object detectors for a unique organism; no complicated binary object classifiers. We believe in reductionism: the simpler the model, the better.
-- There will be a confusion matrix for each model - so 20 confusion matrices, giving us a grand total of 120 results. Fuck yeah.
+- There will be a confusion matrix for each model - so 4 confusion matrices, giving us a grand total of 14 key results.
 
 ### Discussion
 #### Points of Improvement
