@@ -1,17 +1,21 @@
 ## Invasive Species Detector
 
 ### Abstract 
+
 (200 words) 
 (Keywords in alphabetical order)
 
 ### Introduction
+
 - Background on invasive species and their ecological impact.
+- COTS are a pest, effect of marine pests on ecosystems.
 - Highlighting COTs (Crown of Thorns starfish) in Australia and Lionfish in the USA as primary examples.
 - Objectives:
     - To evaluate different detection models for edge devices.
     - To discuss target types and recommend suitable models.
 
 ### Related Work
+
 - Overview of invasive species detection methodologies.
 - DeepPlastic: [Link](https://arxiv.org/pdf/2105.01882.pdf)
 - Marine object detection techniques.
@@ -22,37 +26,39 @@
 - Challenges in Lionfish eradication: [Link](https://www.sciencedirect.com/science/article/pii/S0048969719328554)
 
 ### Network Architecture
+
 - Emphasis on real-time detection using YOLOv7 and YOLOv8.
 - Comparative analysis of YOLOv7 vs. YOLOv8.
 - Detailed description of the differences between the two versions.
 
 ### Methodology
+
 #### Dataset Construction
+
 - Description of data sources and collection methods.
+The datasets were collected from Roboflow (citation for the site). The lionfish dataset had 786 images for the training set, 112 images for the validation set and 57 images for the test set. 
+For the COTS dataset, the training set had 3082 images, 227 images in the validation set and 52 images for the test set.
+
 #### Enhancements of Custom Datasets
+
 - Techniques used to improve dataset quality.
-#### Object Detection
-##### Fine-Tuning Parameters
-- Parameter adjustments for optimal performance.
-##### GPU Hardware
-- Hardware specifications and configurations.
-##### Training 
-- Training methodologies and techniques.
-##### Evaluation Metrics
-- True Positive (TP) and True Negative (TN) Values
-- Precision and Recall
-- Mean Average Precision (mAP)
-##### Visualizing Results
-- Graphs, charts, and other visualization tools -- Table of results + Confusion Matrices
+For the Lionfish dataset -- the images were preprocessed by auto-orienting the images and resizing was done to the images by stretching to 1028x1028. The augmentations applied were of brightness (between -30% and +30%). 
+For the COTS dataset -- the images were auto-oriented and resizing was done to the images by stretching to 416x416. The augmentations applied were as follows: Shear: ±15° Horizontal, ±15° Vertical; Cutout: 5 boxes with 12% size each.
+
 
 ### Results
+
 #### Quantitative Results
 - Numerical data and findings.
+
 #### Evaluation Results
+
 ##### Object Detection
 - Performance of object detection models.
+
 ##### Inference Speed 
 - Speed of model inference and real-time capabilities.
+
 #### Qualitative Results
 - Interpretation and analysis of results.
 - Comparison of YOLOv7 and YOLOv8 using mAP score, Precision curve, Recall curve, and PR curve.
@@ -73,6 +79,7 @@
 | COTs           |          |           |        |                  |
 
 ### Discussion
+
 Comments on yolov8 for Lionfish - dataset from Roboflow:
 
 @misc{ lionfish-sserd_dataset,
@@ -92,19 +99,20 @@ Comments on yolov8 for Lionfish - dataset from Roboflow:
 
 Comments on yolov8 for COTS - dataset from Roboflow:
 
-@misc{ cots-hwfzf_dataset,
-    title = { COTS Dataset },
+@misc{ google-images-ztm4n_dataset,
+    title = { Google Images Dataset },
     type = { Open Source Dataset },
-    author = { COTS starfish },
-    howpublished = { \url{ https://universe.roboflow.com/cots-starfish/cots-hwfzf } },
-    url = { https://universe.roboflow.com/cots-starfish/cots-hwfzf },
+    author = { COTS },
+    howpublished = { \url{ https://universe.roboflow.com/cots/google-images-ztm4n } },
+    url = { https://universe.roboflow.com/cots/google-images-ztm4n },
     journal = { Roboflow Universe },
     publisher = { Roboflow },
     year = { 2022 },
-    month = { jul },
+    month = { may },
     note = { visited on 2023-09-16 },
+}
 
-
+75 epochs trained on the 8s model
 
 
 ### Code and Dataset Availability
