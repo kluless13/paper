@@ -2,8 +2,7 @@
 
 ### YOLO for Real Time Species Detection - Application for better Conservation Management Efforts.
 
-<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
-<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a>
+<div align="center"><a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a></div>
 ---
 
 **YOLOv8 for Lionfish output gif:**
@@ -29,6 +28,9 @@
 ---
 
 **YOLOv8 for COTS output gif:**
+
+<div align="center">
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a></div>
 
 <div align="center">
     <a href="./">
