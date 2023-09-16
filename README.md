@@ -4,11 +4,12 @@
 
 YOLOv7 and YOLOv8 will be tested on 2 datasets. This means we will produce results for 20 models in total.
 
-```yolov7_LF is final production code```
 
 **YOLOv8 for Lionfish output gif:**
 
 ![LF-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif)
+
+Assets will contain the weights for each dataset.
 
 _Brief description_:
 

@@ -58,6 +58,20 @@
 - Comparison of YOLOv7 and YOLOv8 using mAP score, Precision curve, Recall curve, and PR curve.
 - Confusion matrices for each model.
 
+**YOLOv7**
+
+| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
+|----------------|----------|-----------|--------|------------------|
+| Lionfish       |          |           |        |                  |
+| COTs           |          |           |        |                  |
+
+**YOLOv8**
+
+| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
+|----------------|----------|-----------|--------|------------------|
+| Lionfish       |     0.96     |    1.00   |    0.98    |    0.98              |
+| COTs           |          |           |        |                  |
+
 ### Discussion
 Comments on yolov8 for Lionfish - dataset from Roboflow:
 
@@ -78,18 +92,18 @@ Comments on yolov8 for Lionfish - dataset from Roboflow:
 
 Comments on yolov8 for COTS - dataset from Roboflow:
 
-@misc{ cots-detection-uigl5_dataset,
-    title = { COTS Detection Dataset },
+@misc{ cots-hwfzf_dataset,
+    title = { COTS Dataset },
     type = { Open Source Dataset },
-    author = { Francis Campos Frick },
-    howpublished = { \url{ https://universe.roboflow.com/francis-campos-frick-wodnn/cots-detection-uigl5 } },
-    url = { https://universe.roboflow.com/francis-campos-frick-wodnn/cots-detection-uigl5 },
+    author = { COTS starfish },
+    howpublished = { \url{ https://universe.roboflow.com/cots-starfish/cots-hwfzf } },
+    url = { https://universe.roboflow.com/cots-starfish/cots-hwfzf },
     journal = { Roboflow Universe },
     publisher = { Roboflow },
-    year = { 2023 },
-    month = { feb },
+    year = { 2022 },
+    month = { jul },
     note = { visited on 2023-09-16 },
-}
+
 
 
 
