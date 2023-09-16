@@ -28,7 +28,7 @@
 
 ---
 
-### YOLOv8 for COTS output gif:
+### YOLOv8 for COTS output gif
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
 <div align="center">
