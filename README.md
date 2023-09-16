@@ -4,6 +4,28 @@
 
 ---
 
+### YOLOv7 for Lionfish output
+
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a>
+
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"/>
+    </a>
+</div>
+
+---
+
+### YOLOv7 for COTS output
+
+---
+
 ### YOLOv8 for Lionfish output
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a>
