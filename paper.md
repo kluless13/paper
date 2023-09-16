@@ -76,7 +76,7 @@ For the COTS dataset -- the images were auto-oriented and resizing was done to t
 | Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
 |:--------------:|:--------:|:---------:|:------:|:----------------:|
 | Lionfish       |   0.96   |   1.00    |  0.98  |      0.98        |
-| COTs           |          |           |        |                  |
+| COTs           |   0.92   |   1.00    |  0.97  |      0.95        |
 
 ### Discussion
 
