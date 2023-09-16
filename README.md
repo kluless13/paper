@@ -8,16 +8,39 @@
 
 **YOLOv8 for Lionfish output gif:**
 
-![LF-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif)
-![LF-yolov8-gif2](https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif)
-![LF-yolov8-gif3](https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif)
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/>
+    </a>
+</div>
+
+<div align="centre">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif">
+    </a>
+</div>
 
 ---
 
 **YOLOv8 for COTS output gif:**
 
-![COTS-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif)
-![COTS-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif)
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif">
+    </a>
+</div>
+
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif">
+    </a>
+</div>
 
 Assets will contain the weights for each dataset.
 
