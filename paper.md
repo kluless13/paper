@@ -59,13 +59,39 @@
 - Confusion matrices for each model.
 
 ### Discussion
-#### Points of Improvement
-##### Data Augmentation
-- Techniques and benefits.
-##### Dataset Improvements
-- Recommendations for enhancing dataset quality.
-##### Camera Improvements
-- Suggestions for hardware enhancements.
+Comments on yolov8 for Lionfish - dataset from Roboflow:
+
+@misc{ lionfish-sserd_dataset,
+    title = { lionfish Dataset },
+    type = { Open Source Dataset },
+    author = { hunter gunter },
+    howpublished = { \url{ https://universe.roboflow.com/hunter-gunter/lionfish-sserd } },
+    url = { https://universe.roboflow.com/hunter-gunter/lionfish-sserd },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2021 },
+    month = { nov },
+    note = { visited on 2023-09-16 },
+}
+
+75 epochs trained on 8s model, possible overfitting as we only used the model to train Lionfish as a stand alone class, meaning it may confuse other fish for lionfish. However the weights from this model may be used in other datasets to tune models for classification. Our goal was to create a detector for specific species.
+
+Comments on yolov8 for COTS - dataset from Roboflow:
+
+@misc{ cots-detection-uigl5_dataset,
+    title = { COTS Detection Dataset },
+    type = { Open Source Dataset },
+    author = { Francis Campos Frick },
+    howpublished = { \url{ https://universe.roboflow.com/francis-campos-frick-wodnn/cots-detection-uigl5 } },
+    url = { https://universe.roboflow.com/francis-campos-frick-wodnn/cots-detection-uigl5 },
+    journal = { Roboflow Universe },
+    publisher = { Roboflow },
+    year = { 2023 },
+    month = { feb },
+    note = { visited on 2023-09-16 },
+}
+
+
 
 ### Code and Dataset Availability
 - Links and access details.
