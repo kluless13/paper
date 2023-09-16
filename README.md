@@ -11,6 +11,11 @@ YOLOv7 and YOLOv8 will be tested on 2 datasets.
 ![LF-yolov8-gif2](https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif)
 ![LF-yolov8-gif3](https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif)
 
+
+**YOLOv8 for COTS output gif:**
+
+![COTS-yolov8-gif]()
+![COTS-yolov8-gif]()
 Assets will contain the weights for each dataset.
 
 _Brief description_:
