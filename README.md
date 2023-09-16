@@ -2,8 +2,9 @@
 
 ### YOLO for Real Time Species Detection - Application for better Conservation Management Efforts.
 
-YOLOv7 and YOLOv8 will be tested on 2 datasets. 
-
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a>
+---
 
 **YOLOv8 for Lionfish output gif:**
 
@@ -11,32 +12,39 @@ YOLOv7 and YOLOv8 will be tested on 2 datasets.
 ![LF-yolov8-gif2](https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif)
 ![LF-yolov8-gif3](https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif)
 
+---
 
 **YOLOv8 for COTS output gif:**
 
 ![COTS-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif)
 ![COTS-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif)
+
 Assets will contain the weights for each dataset.
 
-_Brief description_:
+---
 
-YOLO-REACT is a deep learning application harnessing the power of the YOLO (You Only Look Once) algorithm for real-time species detection. Our main aim is to bolster conservation management efforts by providing quick and accurate species recognition, leading to more effective monitoring and protection strategies.
+**Brief Description:**
 
-We begin with COTs which are native to Australia but are very harmful to coral reef. Besdies COTs, which exists predominantly on the sea bed, we will also be creating an algorithm for Lionfish, a known invasive species in Florida. 
+YOLO-REACT represents a state-of-the-art deep learning application that employs the YOLO (You Only Look Once) algorithm for real-time species detection. The overarching objective of this initiative is to enhance conservation management strategies through the provision of rapid and accurate species identification, thereby facilitating more informed monitoring and intervention measures.
 
-_Expanded description_:
+Our initial focus encompasses the Crown-of-Thorns Starfish (COTs), indigenous to Australian waters, known for its detrimental impact on coral reefs. In addition to COTs, we are developing an algorithm tailored for the detection of Lionfish, an invasive species predominantly found in Florida.
 
-YOLO-REACT is a cutting-edge deep learning application, leveraging the remarkable capabilities of the YOLO (You Only Look Once) algorithm for real-time species detection. In the age where rapid ecological changes challenge biodiversity, we believe that technology can be an ally. Our primary mission with YOLO-REACT is to supercharge conservation management endeavors. By offering instantaneous and precise species recognition, we pave the way for optimized monitoring and enhanced protection mechanisms.
+---
 
-The Why: Addressing Ecological Challenges
+**Expanded Description:**
 
-Crown-of-Thorns Starfish (COTs)
-Native to the vast waters surrounding Australia, the Crown-of-Thorns Starfish (COTs) is a predatory species that feeds on coral polyps. While a natural part of the ecosystem, periodic population surges lead to extensive coral predation, which can be catastrophic for coral reefs. These outbreaks reduce coral cover, decrease biodiversity, and affect the overall health and balance of the reef ecosystem.
+YOLO-REACT is an advanced deep learning application that harnesses the capabilities of the YOLO (You Only Look Once) algorithm to achieve real-time species detection. In an era marked by significant ecological shifts that threaten biodiversity, the integration of technology into conservation efforts is paramount. YOLO-REACT is designed to augment conservation management by providing instantaneous species identification, thereby enabling more strategic monitoring and intervention.
 
-With YOLO-REACT, we aim to monitor these population surges and map their spread. Early detection of COTs can inform targeted response efforts, enabling conservationists to manage and possibly prevent larger outbreaks.
+---
 
-Lionfish
+**The Rationale: Addressing Ecological Imperatives**
 
-The vibrant Lionfish, originally from the Indo-Pacific, has become an invasive species in the waters of Florida and the broader Atlantic. Their rapid reproduction rate combined with a lack of natural predators in these new regions has led to an imbalance. Lionfish compete with native species for food, leading to reduced biodiversity and altered behaviors of native marine life.
+*Crown-of-Thorns Starfish (COTs)*: Indigenous to the marine regions around Australia, the Crown-of-Thorns Starfish (COTs) is a predatory echinoderm that primarily consumes coral polyps. While COTs play a role in the natural marine ecosystem, episodic population explosions result in excessive coral predation, leading to substantial ecological repercussions. Such outbreaks diminish coral cover, reduce marine biodiversity, and compromise the equilibrium of the reef ecosystem.
 
-Our commitment extends to creating a specialized algorithm that can identify and track the spread of Lionfish populations. By doing so, we can support initiatives that aim to control and manage their population, ensuring a balanced and thriving marine ecosystem.
+Through YOLO-REACT, we endeavor to provide timely detection of COTs population spikes and document their distribution. Such early detection mechanisms can guide targeted conservation responses, potentially mitigating the severity of outbreaks and facilitating reef recovery.
+
+*Lionfish*: The Lionfish, a native of the Indo-Pacific region, has emerged as an invasive species in the Atlantic waters, including Florida. The absence of natural predators in these new habitats, coupled with their prolific reproductive capabilities, has led to ecological imbalances. Lionfish not only compete with native species for resources but also introduce predation pressures that alter native marine species behaviors.
+
+Our research extends to the development of a dedicated algorithm for Lionfish detection. By accurately mapping the proliferation of Lionfish, we aim to bolster initiatives focused on population control, thereby contributing to the restoration and maintenance of marine ecological balance.
+
+---
