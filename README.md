@@ -8,8 +8,8 @@ YOLOv7 and YOLOv8 will be tested on 2 datasets.
 **YOLOv8 for Lionfish output gif:**
 
 ![LF-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif)
-![LF-yolov8-gif2]()
-![LF-yolov8-gif3]()
+![LF-yolov8-gif2](https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif)
+![LF-yolov8-gif3](https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif)
 
 Assets will contain the weights for each dataset.
 
