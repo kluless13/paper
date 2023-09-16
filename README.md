@@ -2,7 +2,7 @@
 
 ### YOLO for Real Time Species Detection - Application for better Conservation Management Efforts.
 
-YOLOv7 and YOLOv8 will be tested on 2 datasets. This means we will produce results for 20 models in total.
+YOLOv7 and YOLOv8 will be tested on 2 datasets. 
 
 
 **YOLOv8 for Lionfish output gif:**
