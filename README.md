@@ -28,7 +28,7 @@
 
 ---
 
-### YOLOv8 for COTS output gif
+### YOLOv8 for COTS output
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
 <div align="center">
@@ -46,7 +46,7 @@
 
 ---
 
-**Brief Description:**
+**Brief Description**
 
 YOLO-REACT represents a state-of-the-art deep learning application that employs the YOLO (You Only Look Once) algorithm for real-time species detection. The overarching objective of this initiative is to enhance conservation management strategies through the provision of rapid and accurate species identification, thereby facilitating more informed monitoring and intervention measures.
 
@@ -54,13 +54,13 @@ Our initial focus encompasses the Crown-of-Thorns Starfish (COTs), indigenous to
 
 ---
 
-**Expanded Description:**
+**Expanded Description**
 
 YOLO-REACT is an advanced deep learning application that harnesses the capabilities of the YOLO (You Only Look Once) algorithm to achieve real-time species detection. In an era marked by significant ecological shifts that threaten biodiversity, the integration of technology into conservation efforts is paramount. YOLO-REACT is designed to augment conservation management by providing instantaneous species identification, thereby enabling more strategic monitoring and intervention.
 
 ---
 
-**The Rationale: Addressing Ecological Imperatives**
+**The Rationale -- Addressing Ecological Imperatives**
 
 *Crown-of-Thorns Starfish (COTs)*: Indigenous to the marine regions around Australia, the Crown-of-Thorns Starfish (COTs) is a predatory echinoderm that primarily consumes coral polyps. While COTs play a role in the natural marine ecosystem, episodic population explosions result in excessive coral predation, leading to substantial ecological repercussions. Such outbreaks diminish coral cover, reduce marine biodiversity, and compromise the equilibrium of the reef ecosystem.
 
