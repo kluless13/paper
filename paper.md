@@ -53,6 +53,32 @@ For the COTS dataset -- the images were auto-oriented and resizing was done to t
 
 #### Evaluation Results
 
+In this section, we present the evaluation metrics for our models trained on the Lionfish and COTs datasets. The metrics include F1 Score, Precision, Recall, and Precision-Recall.
+
+#### YOLOv7 Evaluation
+
+The table below showcases the performance of the YOLOv7 model on both datasets:
+
+| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
+|:--------------:|:--------:|:---------:|:------:|:----------------:|
+| Lionfish       |   0.95   |   1.00    |  1.00  |       0.97       |
+| COTs           |   0.82   |   1.00    |  1.00  |       0.88       |
+
+From the results, it's evident that the YOLOv7 model performs exceptionally well on the Lionfish dataset, achieving an F1 Score of 0.95. However, there's a noticeable drop in performance on the COTs dataset, with an F1 Score of 0.82.
+
+#### YOLOv8 Evaluation
+
+The subsequent table represents the performance metrics of the YOLOv8 model:
+
+| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
+|:--------------:|:--------:|:---------:|:------:|:----------------:|
+| Lionfish       |   0.96   |   1.00    |  0.98  |      0.98        |
+| COTs           |   0.92   |   1.00    |  0.97  |      0.95        |
+
+Comparatively, the YOLOv8 model exhibits a consistent performance across both datasets, with only a slight difference in F1 Scores between Lionfish and COTs.
+
+---
+
 ##### Object Detection
 - Performance of object detection models.
 
@@ -63,20 +89,6 @@ For the COTS dataset -- the images were auto-oriented and resizing was done to t
 - Interpretation and analysis of results.
 - Comparison of YOLOv7 and YOLOv8 using mAP score, Precision curve, Recall curve, and PR curve.
 - Confusion matrices for each model.
-
-**YOLOv7**
-
-| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
-|:--------------:|:--------:|:---------:|:------:|:----------------:|
-| Lionfish       |   0.95   |   1.00    |  1.00  |       0.97       |
-| COTs           |   0.82   |   1.00    |  1.00  |       0.88       |
-
-**YOLOv8**
-
-| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
-|:--------------:|:--------:|:---------:|:------:|:----------------:|
-| Lionfish       |   0.96   |   1.00    |  0.98  |      0.98        |
-| COTs           |   0.92   |   1.00    |  0.97  |      0.95        |
 
 ### Discussion
 
