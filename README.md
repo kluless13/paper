@@ -20,7 +20,7 @@
     </a>
 </div>
 
-<div align="centre">
+<div align="center">
     <a href="./">
         <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif">
     </a>
@@ -42,7 +42,6 @@
     </a>
 </div>
 
-Assets will contain the weights for each dataset.
 
 ---
 
@@ -71,3 +70,5 @@ Through YOLO-REACT, we endeavor to provide timely detection of COTs population s
 Our research extends to the development of a dedicated algorithm for Lionfish detection. By accurately mapping the proliferation of Lionfish, we aim to bolster initiatives focused on population control, thereby contributing to the restoration and maintenance of marine ecological balance.
 
 ---
+
+All assets such as gifs and model weights will be under the folder named ![assets](https://github.com/kluless13/paper/tree/main/Assets)
