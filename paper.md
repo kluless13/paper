@@ -69,7 +69,7 @@
 
 | Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
 |----------------|----------|-----------|--------|------------------|
-| Lionfish       |     0.96     |    1.00   |    0.98    |    0.98              |
+| Lionfish       |     0.96     |    1.00   |    0.98    |    0.98     |
 | COTs           |          |           |        |                  |
 
 ### Discussion
