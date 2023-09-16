@@ -1,70 +1,82 @@
-## Invasive species detector
+## Invasive Species Detector
 
-### Abstract (200 words)(keywords in alphabetical order)
+### Abstract 
+(200 words) 
+(Keywords in alphabetical order)
 
 ### Introduction
-- COTs (Crown of thorns starfish) - pain in Australia
-- Lionfish - Pain in the USA
-- The paper underscores the ecological challenges posed by invasive species, using COTs in Australia and Lionfish in the USA as primary examples.
+- Background on invasive species and their ecological impact.
+- Highlighting COTs (Crown of Thorns starfish) in Australia and Lionfish in the USA as primary examples.
 - Objectives:
-    - Best model for each of the two case studies
+    - To evaluate different detection models for edge devices.
+    - To discuss target types and recommend suitable models.
 
 ### Related Work
-- Work related to invasive species detection
-- DeepPlastic: https://arxiv.org/pdf/2105.01882.pdf
-- Other object detection stuff in the marine field
-- CSIRO: COTs detection - https://arxiv.org/pdf/2111.14311v1.pdf
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10075425/#:~:text=This%20paper%20proposes%20a%20novel,classifying%20COTS%20using%20transfer%20learning.
-(COTS - threatening species in Australia a.k.a Marine Pest - CNN model - can't run in near real time)
-- https://github.com/SelendisErised/Crown-of-Thorns-Starfish-Detection (COTS - done with YOLOv5)
-- Lionfish: Invasive to the US - https://www.tandfonline.com/doi/full/10.1080/10641262.2012.700655 - direct removal is good.
-- Eradication tricky, needs more digging into: https://www.sciencedirect.com/science/article/pii/S0048969719328554
-- The paper reviews previous work done in the domain of invasive species detection, with an emphasis on object detection methods for marine environments.
-- Specific references include studies on COTs detection, techniques that utilize Convolutional Neural Networks (CNNs), and the adoption of YOLOv5 for COTs detection. 
-- The challenge seems to be the lack of real-time processing with some existing models.
-- There's also a mention of the invasive nature of Lionfish in the US, the challenge in eradicating them, and potential mitigation strategies.
+- Overview of invasive species detection methodologies.
+- DeepPlastic: [Link](https://arxiv.org/pdf/2105.01882.pdf)
+- Marine object detection techniques.
+- CSIRO: COTs detection - [Link](https://arxiv.org/pdf/2111.14311v1.pdf)
+- Transfer learning in COTs detection: [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10075425/)
+- YOLOv5 for COTs detection: [GitHub Link](https://github.com/SelendisErised/Crown-of-Thorns-Starfish-Detection)
+- Lionfish in the US: [Link](https://www.tandfonline.com/doi/full/10.1080/10641262.2012.700655)
+- Challenges in Lionfish eradication: [Link](https://www.sciencedirect.com/science/article/pii/S0048969719328554)
 
 ### Network Architecture
-- Since it is real time detection we will test this out on five versions of YOLOv7 and YOLOv8, i.e., 10 models (w6, e6, d6, e6e) & (n, s, m, l, x) and weigh their pros and cons.
-- The research seeks to explore the real-time detection capabilities of five versions each of YOLOv7 and YOLOv8. 
-- The intention here is a comparative analysis of the strengths and weaknesses of each version.
-- Will describe the differences between YOLOv7 and YOLOv8.
+- Emphasis on real-time detection using YOLOv7 and YOLOv8.
+- Comparative analysis of YOLOv7 vs. YOLOv8.
+- Detailed description of the differences between the two versions.
 
 ### Methodology
 #### Dataset Construction
+- Description of data sources and collection methods.
 #### Enhancements of Custom Datasets
+- Techniques used to improve dataset quality.
 #### Object Detection
-##### Fine Tuning Parameters
+##### Fine-Tuning Parameters
+- Parameter adjustments for optimal performance.
 ##### GPU Hardware
+- Hardware specifications and configurations.
 ##### Training 
+- Training methodologies and techniques.
 ##### Evaluation Metrics
-TP and TN Values
-Precision and Recall
-Mean Average Precision (mAP)
+- True Positive (TP) and True Negative (TN) Values
+- Precision and Recall
+- Mean Average Precision (mAP)
 ##### Visualizing Results
+- Graphs, charts, and other visualization tools -- Table of results + Confusion Matrices
 
 ### Results
 #### Quantitative Results
+- Numerical data and findings.
 #### Evaluation Results
 ##### Object Detection
+- Performance of object detection models.
 ##### Inference Speed 
+- Speed of model inference and real-time capabilities.
 #### Qualitative Results
-- In the final result, we will compare the two algorithms against each other with their 5 main evaluation metrics - the mAP score, the Precision curve, the Recall curve, and the PR curve.
-- This means that we will have a total of 5 unique values for each algorithm. In total, there will be 10 unique values to extrapolate information from. 
-- The final result table will have these columns: Model name, Dataset, mAP score, F1 score, P curve, R curve, and PR curve.
-- We will also observe the confusion matrices to further understand how confused these models get as we are simply creating object detectors for a unique organism; no complicated binary object classifiers. We believe in reductionism: the simpler the model, the better.
-- There will be a confusion matrix for each model - so 4 confusion matrices, giving us a grand total of 14 key results.
+- Interpretation and analysis of results.
+- Comparison of YOLOv7 and YOLOv8 using mAP score, Precision curve, Recall curve, and PR curve.
+- Confusion matrices for each model.
 
 ### Discussion
 #### Points of Improvement
 ##### Data Augmentation
+- Techniques and benefits.
 ##### Dataset Improvements
+- Recommendations for enhancing dataset quality.
 ##### Camera Improvements
+- Suggestions for hardware enhancements.
 
 ### Code and Dataset Availability
+- Links and access details.
 
 ### Conclusion
+- Summary of findings and their implications.
 
 ### Future Work
+- Potential extensions and areas of exploration.
 
-### Acknowledgements 
+### Acknowledgements
+- Credits and thanks.
+
+---
