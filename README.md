@@ -6,7 +6,7 @@
 
 ### YOLOv8 for Lionfish output
 
-<div align="center"><a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a></div>
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"></a>
 
 <div align="center">
     <a href="./">
@@ -30,9 +30,7 @@
 
 ### YOLOv8 for COTS output gif:
 
-<div align="center">
-<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a></div>
-
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
 <div align="center">
     <a href="./">
         <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif">
