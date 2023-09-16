@@ -6,6 +6,10 @@ YOLOv7 and YOLOv8 will be tested on 2 datasets. This means we will produce resul
 
 ```yolov7_LF is final production code```
 
+**YOLOv8 for Lionfish output gif:**
+
+![LF-yolov8-gif](https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif)
+
 _Brief description_:
 
 YOLO-REACT is a deep learning application harnessing the power of the YOLO (You Only Look Once) algorithm for real-time species detection. Our main aim is to bolster conservation management efforts by providing quick and accurate species recognition, leading to more effective monitoring and protection strategies.
