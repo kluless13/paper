@@ -77,13 +77,7 @@ The subsequent table represents the performance metrics of the YOLOv8 model:
 
 Comparatively, the YOLOv8 model exhibits a consistent performance across both datasets, with only a slight difference in F1 Scores between Lionfish and COTs.
 
-#### YOLO NAS Evaluation
-
-| Dataset/Metric | F1 Score | Precision | Recall | Precision-Recall |
-|:--------------:|:--------:|:---------:|:------:|:----------------:|
-| Lionfish       |          |           |        |                  |
-| COTs           |          |           |        |                  |
-
+YOLO-NAS done for both - confusion matrices in appendix.
 ---
 
 ##### Object Detection
@@ -94,7 +88,7 @@ Comparatively, the YOLOv8 model exhibits a consistent performance across both da
 
 #### Qualitative Results
 - Interpretation and analysis of results.
-- Comparison of YOLOv7 and YOLOv8 using mAP score, Precision curve, Recall curve, and PR curve.
+- Comparison of YOLOv7 and YOLOv8 using F1 score, Precision curve, Recall curve, and PR curve.
 - Confusion matrices for each model.
 
 ### Discussion
