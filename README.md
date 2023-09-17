@@ -2,6 +2,14 @@
 
 ### YOLO for Real Time Species Detection - Application for better Conservation Management Efforts.
 
+
+To-do:
+- Remove weights from assets
+- Remove API calls from all notebooks
+- Upload confusion matrices
+- ~Make gifs from .mp4 files~
+- Finish writing paper
+- Stack results
 ---
 
 ### YOLOv7 for Lionfish output
