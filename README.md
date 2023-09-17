@@ -4,12 +4,12 @@
 
 
 To-do:
-- Remove weights from assets
+- ~Remove weights from assets~
 - Remove API calls from all notebooks
 - Upload confusion matrices
 - ~Make gifs from .mp4 files~
 - Finish writing paper
-- Stack results
+- ~Stack results~
 ---
 
 ### YOLOv7 for Lionfish output
