@@ -25,74 +25,68 @@ To-do:
 
 ### YOLOv7 for COTS output
 
-<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv7-COTS"></a>
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_COTS.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv7-COTS">
+    </a>
 
-<table align = "center">
-    <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-1.gif" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-2.gif" width="79%"class = "center"/></td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-1.gif" width="49%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-2.gif" width="49%"/>
+</div>
 
 ---
 
 ### YOLOv8 for Lionfish output
 
-<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-LF"></a>
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-LF"></a>
 
-<table align = "center">
-    <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"class = "center"/></td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="32%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="32%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif" width="32%"/>
+</div>
 
 ---
 
 ### YOLOv8 for COTS output
 
-<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
 
-<table align = "center">
-    <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="79%"class = "center"/></td>
-    </tr>
-</table>
+<a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-COTS"> </a>
+
+<div align="center">
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="49%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="49%"/>
+</div>
 
 ---
 
 ### Confusion Matrices for YOLOv7
 
-<table align = "center">
-    <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_LF_cm.png" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_COTS_cm.png" width="79%"class = "center"/></td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_LF_cm.png" width="49%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_COTS_cm.png" width="49%"/>
+</div>
 
 ---
 
 ### Confusion Matrices for YOLOv8
 
-<table align = "center">
-    <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_LF_cm.png" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_COTS_cm.png" width="79%"class = "center"/></td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_LF_cm.png" width="49%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_COTS_cm.png" width="49%"/>
+</div>
 
 ---
 
 ### Confusion Matrices for YOLO-NAS
 
-<table align = "center">
-    <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_LF_cm.png" width="79%"class = "center"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_COTS_cm.png" width="79%"class = "center"/></td>
-    </tr>
-</table>
+<div align="center">
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_LF_cm.png" width="49%"/>
+    <img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_COTS_cm.png" width="49%"/>
+</div>
+
 
 ---
 
