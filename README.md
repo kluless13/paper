@@ -44,11 +44,11 @@ To-do:
 
 <table>
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"></td>
     </tr>
 </table>
-
 ---
 
 ### YOLOv8 for COTS output
@@ -57,9 +57,41 @@ To-do:
 
 <table>
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="79%"/></td>
+    </tr>
+</table>
+
+---
+
+### Confusion Matrices for YOLOv7
+
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_LF_cm.png" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_COTS_cm.png" width="79%"/></td>
+    </tr>
+</table>
+
+---
+
+### Confusion Matrices for YOLOv8
+
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_LF_cm.png" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_COTS_cm.png" width="79%"/></td>
+    </tr>
+</table>
+
+---
+
+### Confusion Matrices for YOLO-NAS
+
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yoloZZ_nas_LF_cm.png" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_COTS_cm.png" width="79%"/></td>
     </tr>
 </table>
 
