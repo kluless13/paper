@@ -18,8 +18,8 @@ To-do:
 
 <table align ="center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%" class = "center"/</td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"class = "center"/></td>
     </tr>
 </table>
 
@@ -31,8 +31,8 @@ To-do:
 
 <table align = "center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-1.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-1.gif" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-2.gif" width="79%"class = "center"/></td>
     </tr>
 </table>
 
@@ -44,9 +44,9 @@ To-do:
 
 <table align = "center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"class = "center"/></td>
     </tr>
 </table>
 
@@ -58,8 +58,8 @@ To-do:
 
 <table align = "center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="79%"class = "center"/></td>
     </tr>
 </table>
 
@@ -69,8 +69,8 @@ To-do:
 
 <table align = "center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_LF_cm.png" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_COTS_cm.png" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_LF_cm.png" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov7_COTS_cm.png" width="79%"class = "center"/></td>
     </tr>
 </table>
 
@@ -80,8 +80,8 @@ To-do:
 
 <table align = "center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_LF_cm.png" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_COTS_cm.png" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_LF_cm.png" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolov8_COTS_cm.png" width="79%"class = "center"/></td>
     </tr>
 </table>
 
@@ -91,8 +91,8 @@ To-do:
 
 <table align = "center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_LF_cm.png" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_COTS_cm.png" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_LF_cm.png" width="79%"class = "center"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/yolo_nas_COTS_cm.png" width="79%"class = "center"/></td>
     </tr>
 </table>
 
