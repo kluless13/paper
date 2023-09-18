@@ -6,7 +6,7 @@
 To-do:
 - ~Remove weights from assets~
 - ~Remove API calls from all notebooks~
-- Upload confusion matrices
+- ~Upload confusion matrices~
 - ~Make gifs from .mp4 files~
 - Finish writing paper
 - ~Stack results~
@@ -16,17 +16,12 @@ To-do:
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv7-LF"></a>
 
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"/>
-    </a>
-</div>
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"/></td>
+    </tr>
+</table>
 
 ---
 
@@ -34,17 +29,12 @@ To-do:
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv7-COTS"></a>
 
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-1.gif" width="79%"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-2.gif" width="79%"/>
-    </a>
-</div>
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-1.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cots7-2.gif" width="79%"/></td>
+    </tr>
+</table>
 
 ---
 
@@ -52,23 +42,13 @@ To-do:
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv8-LF"></a>
 
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif">
-    </a>
-</div>
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"></td>
+    </tr>
+</table>
 
 ---
 
@@ -76,17 +56,13 @@ To-do:
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov8_COTS.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=""></a>
 
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif">
-    </a>
-</div>
-
-<div align="center">
-    <a href="./">
-        <img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif">
-    </a>
-</div>
+<table>
+    <tr>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"></td>
+    </tr>
+</table>
 
 ---
 
