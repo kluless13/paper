@@ -44,9 +44,8 @@ To-do:
 
 <table>
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif2.gif" width="79%"/></td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF-gif3.gif"></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip1.gif" width="79%"/></td>
+        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/cotsclip2.gif" width="79%"/></td>
     </tr>
 </table>
 
@@ -92,4 +91,4 @@ Our research extends to the development of a dedicated algorithm for Lionfish de
 
 ---
 
-All assets such as gifs and model weights will be under the folder named ![assets](https://github.com/kluless13/paper/tree/main/Assets)
+
