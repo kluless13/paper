@@ -16,10 +16,10 @@ To-do:
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv7-LF"></a>
 
-<table align ="center">
+<table align="center">
     <tr>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%" class = "center"/</td>
-        <td><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"class = "center"/></td>
+        <td style="text-align:center;"><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-1.gif" width="79%"/></td>
+        <td style="text-align:center;"><img src="https://github.com/kluless13/paper/blob/main/Assets/LF7-2.gif" width="79%"/></td>
     </tr>
 </table>
 
