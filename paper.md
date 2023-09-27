@@ -32,7 +32,7 @@
 - Detailed description of the differences between the two versions.
 
 ### Methodology
-
+methods > workflow design - infographic of pipeline > dataset prep > network arch > training > validation > test > model evaluation
 #### Dataset Construction
 
 - Description of data sources and collection methods.
@@ -47,7 +47,6 @@ For the COTS dataset -- the images were auto-oriented and resizing was done to t
 
 
 ### Results
-
 #### Quantitative Results
 - Numerical data and findings.
 
