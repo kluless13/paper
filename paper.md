@@ -12,20 +12,23 @@ Keywords: Crown Of Thorns Starfish, Cybernetics, Invasive Species Detection, Lio
 
 ### Introduction
 
-The emergence of machine learning (ML) and deep learning (DL) technologies has sparked a new era of scientific investigation in various fields, including marine ecology, which has gained particular attention *[1,2]*.The effectiveness of computational tools in efficiently and precisely analyzing large datasets has empowered marine ecologists to develop novel tools, thereby enhancing our comprehension and control of marine ecosystems. The issue of invasive species poses a significant threat to marine ecosystems, adding to the numerous challenges they already face. The introduction of non-native species into new habitats can have significant impacts on the ecological equilibrium, leading to negative consequences for the environment and economy.
+The emergence of Machine Learning (ML) and Deep Learning (DL) technologies represents a significant shift in scientific investigation across various fields, particularly in the realm of marine ecology. The computational methodologies encompassed within the field of Artificial Intelligence (AI) have exhibited remarkable aptitude in analyzing large datasets with a combination of accuracy and efficiency. As a result, marine ecologists possess innovative tools that enhance our comprehension and capacity for managing marine ecosystems [1,2].
 
-In marine ecosystems, the presence of invasive species has been observed to disrupt ecological relationships, resulting in negative consequences. For example, there has been a correlation between the occurrence of outbreaks of Crown of Thorns starfish (COTs) and a notable decrease in coral abundance throughout the Great Barrier Reef over the course of the last forty years. When starfish populations reach a state of outbreak, they exhibit a consumption rate of coral tissues that exceeds the rate of coral growth. This poses a substantial risk to the long-term health and resilience of the reef, particularly in light of climate change *[3,4,5]*. In the same manner, it's also significant that the Lionfish has rapidly infiltrated the Atlantic coastal waters, the Caribbean Sea, and the Gulf of Mexico within the United States. This phenomenon has raised significant apprehension due to their predatory behavior towards indigenous fish species and their absence of natural predators, thereby intensifying their invasive capabilities *(6,7)*.
+The issue of invasive species poses a significant challenge to marine ecosystems, further complicating the already formidable obstacles they face. The introduction of non-native species into unfamiliar environments can significantly disrupt the ecological equilibrium, resulting in negative consequences for both the natural ecosystem and the economy. For example, there is a correlation between the occurrence of outbreaks of Crown Of Thorns starfish (COTs) and the substantial depletion of coral in the Great Barrier Reef during the last forty years. In similar fashion, the rapid colonization of Lionfish in the Atlantic coastal waters, Caribbean Sea, and Gulf of Mexico has raised significant concerns due to their predatory behavior and absence of natural predators, thereby amplifying their invasive capabilities (6,7).
 
-The cybernetic perspective, which conceptualizes ecosystems as systems that process information, presents a new paradigm for understanding and tackling the challenges posed by invasive species. The utilization of machine learning (ML) and deep learning (DL) algorithms holds the potential to decipher the complex information networks present in marine ecosystems, thus enabling the creation of tools for real-time monitoring and management. These tools play a crucial role in the timely identification and management of invasive species risks, thereby bolstering the ability of marine ecosystems to withstand and recover from such invasions *(8)*.
+The cybernetic perspective, which emerged in the 1940s, focuses on the study of systems and processes that involve self-interaction and self-regeneration, such as those found in marine ecology. The utilization of this transdisciplinary methodology provides a structured approach for examining and comprehending the complex interconnections, self-regulating patterns, and adaptive capacities that are inherent in marine ecosystems. The cybernetic lens provides a conceptual framework for understanding ecosystems as systems that process information. This perspective offers a new paradigm for comprehending and tackling the challenges posed by invasive species.
 
-The study aims to achieve two primary objectives:
+The integration of machine learning (ML), deep learning (DL), and cybernetics in the field of marine science provides a comprehensive comprehension of marine ecosystems, emphasizing a systems-based approach. The integration of multiple disciplines allows for the examination of the flow of information within marine ecosystems, as well as their inherent ability to organize themselves, adapt, and respond to environmental disturbances, such as the introduction of non-native species. This study explores the utilization of YOLOv7 and YOLOv8 models, which combine machine learning, deep learning, and cybernetic principles. The aim is to propose a novel approach for conducting real-time monitoring and analysis of marine ecosystems.
 
-- The first aim is to highlight the differences between the YOLOv7 and YOLOv8 model inferences. Edge devices, due to their inherent ability to perform data processing at the location of data collection, present a highly promising opportunity for the real-time monitoring of marine ecosystems.
+The study focuses primarily in achieving two main objectives:
 
-- The second objective of this study is to examine the different types of targets found in marine ecosystems and propose appropriate models for object detection in each case. The overall goal of this study is to provide marine ecologists with a comprehensive toolkit that can be customized to suit specific monitoring and management goals, through a thorough understanding of the strengths and weaknesses inherent in various models.
+1. This study aims to highlight the distinguishing characteristics between the YOLOv7 and YOLOv8 models, with a specific focus on model comparison and edge computing. The inherent ability of edge devices to perform data processing at the location of data collection presents a promising opportunity for the real-time monitoring of marine ecosystems.
 
-This study aims to bridge the gap between marine science and machine learning by conducting a comparative analysis of YOLOv7 and YOLOv8 in the detection and identification of invasive species, specifically COTs and Lionfish. Furthermore, this study provides a foundation for future investigations focused on exploring the cybernetic characteristics of marine ecosystems, thereby enhancing our comprehensive comprehension of the interconnectedness and reciprocal relationships intrinsic to these intricate ecological networks *(9)*. 
+2. This study aims to investigate various targets present in marine ecosystems and suggest suitable models for detecting these objects in different scenarios. This will enable us to provide marine ecologists with a comprehensive set of tools that can be tailored to meet specific monitoring and management goals. This will be achieved by developing a nuanced understanding of the strengths and limitations of different models.
 
+The aim of this study is to establish a connection between the fields of marine science, cybernetics and machine learning. This will be achieved by conducting a comparative analysis of two machine learning models, YOLOv7 and YOLOv8, in their ability to detect and identify invasive species, specifically Crown-of-Thorns Starfish (COTs) and Lionfish. Further, this research establishes the fundamental basis for future investigations focused on exploring the cybernetic characteristics of marine ecosystems, thereby enhancing our comprehensive understanding of the interconnected and mutually dependent relationships inherent in these intricate ecological networks (9).
+
+In conclusion, the integration of machine learning and cybernetics in the field of marine science, exemplified by the application of YOLOv7 and YOLOv8 models for the real-time detection and identification of invasive species, enhances our ability to observe and manage marine ecosystems. This methodology enhances both our ability to observe and manage, while also creating an environment that is favorable for additional interdisciplinary exploration. This collaborative initiative aims to address the ecological challenges presented by invasive species by integrating the fields of data science, marine science, and cybernetics. In doing so, it seeks to make a meaningful contribution to the wider discourse on marine ecosystem management and conservation.
 
 1. https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14061#:~:text=Overview%20of%20common%20supervised%20machine,1
 2. https://academic.oup.com/icesjms/article/79/2/319/6507793
@@ -41,21 +44,90 @@ This study aims to bridge the gap between marine science and machine learning by
 
 ### Related Work
 
-**DeepPlastic:**
+1. **DeepPlastic:**
 
 This paper presents an investigation into the utilization of deep learning techniques to detect marine litter in diverse image datasets. This study demonstrates the wider implementation of machine learning in the field of marine ecology, albeit with no direct focus on invasive species *[1]*.
 
-**CSIRO: COTs detection:**
+2. **CSIRO: COTs detection:**
 
 This paper examines the application of machine learning techniques in the identification and detection of Crown-of-Thorns Starfish (COTs) *[2]*. Furthermore, Matthew Dunbabin and Feras Dayoub have developed a project known as "COTSBot" with the purpose of addressing the proliferation of Crown-of-Thorns Starfish (COTs). This project involves the deployment of a robotic system referred to as the "Starfish Terminator" *[3]*.
 
-**Lionfish in the US:**
+3. **Lionfish in the US:**
 
 The United States Geological Survey (USGS) acknowledges the implementation of initiatives aimed at promptly identifying and effectively addressing the presence of invasive marine fish species in the coastal waters of Florida, specifically highlighting the case of the Lionfish *[4]*. Furthermore, the economic ramifications of the Lionfish invasion are examined, revealing an approximate annual loss of US$24 million as a result of the proliferation of Lionfish in ecosystems where they are not native *[5]*.
 
-**Jellyfish Monitoring:**
+4. **Lionfish Case Study #1** https://academic.oup.com/icesjms/article/80/1/31/6884606?login=false
+
+Commercial markets for controlling invasive species are emerging as a strategy with fewer ecological impacts than genetic modification and biological control.
+The commercialization of invasive species, such as lionfish in the Mexican Caribbean, has created social dilemmas and opportunities.
+The pilot commercial fishery in Cozumel has succeeded in reducing local lionfish abundance, but it disproportionately benefits fishers using "unsustainable" gear and reinforces the narrative of a "tragedy of the commons."
+
+5. **Lionfish Case Study #2** https://link.springer.com/article/10.1007/s00227-023-04174-8
+
+Lionfish populations have expanded in the western Atlantic Ocean and the Mediterranean Sea, impacting marine biodiversity.
+The MaxEnt model was used to predict lionfish populations' suitability under different climate change scenarios.
+Lionfish can tolerate a wide range of temperatures and salinity levels, and under mild warming scenarios, their suitable habitat could expand to higher latitudes. However, under the warmest scenario, tropical latitudes may become less suitable for lionfish.
+
+6. **COTs Case Study #1** https://doi.org/10.1016/j.bios.2023.115265
+
+The coral reef crisis has worsened due to outbreaks of crown-of-thorns starfish (COTS), but current monitoring methods cannot detect COTS at the early stage.
+Researchers developed an electrochemical biosensor with a DNA probe that can detect trace COTS environmental DNA with high specificity and accuracy.
+The biosensor successfully detected COTS eDNA in seawater samples, confirming its potential as an early warning method for COTS populations. Further improvements are being made for even more sensitive detection
+
+7. **COTS Case Study #2** https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283121
+
+Coral reefs are important for marine ecosystems but are threatened by species outbreaks and coral bleaching.
+Snorkelling and diving are currently used to detect outbreaks of the Crown of Thorns Starfish (COTS), but this method has limitations.
+This paper proposes a new approach using a Convolutional Neural Network (CNN) with an enhanced attention module to automatically detect and classify COTS, achieving an accuracy of 92.6%.
+
+8. **Jellyfish Monitoring:**
 
 The paper titled "Real-time Jellyfish Classification and Detection Algorithm Based on Improved YOLOv4-tiny and Improved Underwater Image Enhancement Algorithm" presents an algorithm for the real-time classification and detection of jellyfish. The study highlights the progress made in the field of jellyfish monitoring *[6]*. The paper titled "Jellytoring: Real-Time Jellyfish Monitoring" explores the increase in jellyfish populations and emphasizes the significance of monitoring these fluctuations for the purpose of environmental evaluation and management *[7]*.
+
+9. **Machine Learning in Marine Ecology** https://doi.org/10.1093/icesjms/fsad100
+
+Machine learning is widely used in marine ecology to identify patterns in data and has become increasingly popular due to the availability of more data and computing power.
+The authors provide a comprehensive overview of machine learning techniques and their applications in marine ecology, including various data types such as images, spectra, acoustics, omics, geolocations, biogeochemical profiles, and satellite imagery.
+The overview highlights the increasing use of machine learning in marine ecology studies, the prevalence of images as a data source, the dominance of machine learning for classification problems, and the growing adoption of deep learning across all data types.
+
+10. **Machine Learning for studying Plankton and Marine Snow** https://doi.org/10.1146/annurev-marine-041921-013023
+
+Quantitative imaging combined with machine learning has advanced taxonomic classification and provided insights on pelagic ecology, but further development is needed through trait-based approaches and collaboration with computer science and data sharing communities.
+
+11. **Deep Learning for Marine Ecology** https://doi.org/10.1093/icesjms/fsab255
+
+Deep learning is being used in marine ecology to analyze data from sensors, cameras, and acoustic recorders in real time, allowing for reproducible and rapid analysis.
+Collaboration between ecological and data science disciplines is necessary to promote the use of deep learning for ecosystem-based management of the sea, with applications including species detection, classification, tracking, and segmentation of visualized data.
+
+12. **DeepData** https://doi.org/10.1016/j.eswa.2022.117841
+
+Species Distribution Modelling (SDM) uses environmental and species monitoring data to predict species distribution and manage activities in a geographic area, such as regulating fishing practices or managing protected areas.
+DeepData is a no-code web-based machine learning platform that automates SDM for marine biologists, allowing them to create and validate models using probabilistic and machine learning algorithms, as well as perform data preparation and model evaluation.
+
+13. **Machine Learning for Macroalgae Detection** https://www.frontiersin.org/articles/10.3389/fmars.2022.947394/full
+
+Machine learning algorithms have been successfully applied in various microalgae applications, including classification, bioenergy generation, environment purification, and growth monitoring, with promising results and potential for future development.
+
+14. **Cybernetics of the Ecosystem** https://doi.org/10.2307/1930032
+
+This paper debates whether ecosystems are of a cybernetic nature. Based on the trophic system dynamics, ecosystems were studied from a cybernetic point of view.  
+
+15. **Eco-Cybernetics** https://doi.org/10.1108/03684920010342044
+
+An energetics reading of ecological systems is an expression of a cybernetic, systemic, and holistic approach.
+The Odumian paradigm in ecosystem ecology emphasizes the concept of emergence, but lacks a method that fully respects the complexity of the objects studied.
+In landscape ecology, the emergentist, multi-level, triadic methodology of J.K. Feibleman and D.T. Campbell has gained acceptance, but the importance of emergent properties is still undervalued.
+The Gaia hypothesis in global ecology is an expression of an organicist metaphor, but the emergentist terminology used is incongruent with the underlying physicalist cybernetics.
+An analytico-additional methodology and the reduction of the properties of ecosystems to the laws of physical chemistry render purely formal any assertion about the emergentist and holistic nature of the ecological systems studied.
+
+16. **The Cybernetic Nature of Ecosystems** https://doi.org/10.1086/283881
+
+This study investigates the cybernetic characteristics of ecosystems, with a particular focus on the importance of feedback mechanisms in achieving desired objectives. The statement posits that ecosystems, in contrast to conventional cybernetic systems that exhibit feedback control, such as thermostat-furnace or driver-car, do not possess a structured information network that integrates all of their components. Cybernetic systems are responsible for information management by means of mapping and amplification. In contrast, ecosystems transmit information in the form of matter or waves through convection or wave motion, thereby classifying them as noncybernetic systems.
+
+17. **YOLOv7** https://openaccess.thecvf.com/content/CVPR2023/html/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.html
+
+This paper examines the progress made in the field of real-time object detection, which is a critical domain within the realm of computer vision. Two prominent research themes have surfaced as a result of continuous advancements in architecture and training optimization. The proposed solution put forth by the authors revolves around a trainable bag-of-freebies approach, which combines efficient training tools with a novel architecture and compound scaling method. YOLOv7 has garnered attention for its superior performance compared to other object detection models in terms of both speed and accuracy. It has demonstrated remarkable results across a wide range of frame rates, ranging from 5 to 120 frames per second (FPS). Notably, it has achieved the highest accuracy, measured at 56.8% average precision (AP), among real-time object detectors operating at 30 FPS or higher on the GPU V100.
+
 
 1. https://arxiv.org/pdf/2105.01882.pdf
 2. https://arxiv.org/pdf/2111.14311v1.pdf
@@ -68,6 +140,48 @@ The paper titled "Real-time Jellyfish Classification and Detection Algorithm Bas
 ---
 
 ### Network Architecture
+
+### 1. **Single Convolutional Network:**
+   - The YOLO algorithm utilizes a singular convolutional network to perform simultaneous predictions of multiple bounding boxes and their corresponding class probabilities.   
+   - In contrast to conventional approaches that involve applying the classifier to an image at various locations and scales, YOLO, or "You Only Look Once," operates by passing the image through the network only once.
+
+### 2. **Grid System:**
+   - The grid system is a method used in design and layout to organize content and elements on a page. 
+   - It involves dividing the page into a series of columns and rows, creating a grid structure. 
+   - This grid structure helps to establish a consistent and balanced layout. 
+   - The algorithm partitions the image into a grid, typically with dimensions of 13x13. 
+
+### 3. **Bounding Box Predictions:**
+   - Each individual cell within the grid is tasked with making predictions for bounding boxes.
+   - Each prediction for a bounding box includes the coordinates of the box, a confidence score, and probabilities for different classes. 
+
+### 4. **Anchor Boxes:**
+   - Subsequent iterations of the YOLO algorithm incorporated the integration of anchor boxes, which are pre-defined shapes, to enhance the network's ability to accurately predict bounding boxes with varying shapes and sizes.
+   - Anchor boxes are instrumental in enhancing the precision of object detection, particularly for objects that exhibit diverse aspect ratios.
+
+### 5. **Loss Function:**
+   - The YOLO algorithm incorporates a custom loss function that takes into account three distinct components: localization loss, classification loss, and confidence loss. 
+   - Localization loss pertains to the discrepancy between the predicted and actual bounding box coordinates. 
+   - Classification loss refers to the disparity between the predicted and actual class labels. 
+   - Lastly, confidence loss accounts for the disparity between the predicted and actual confidence scores.
+   - The utilization of this loss function facilitates the model's acquisition of the ability to accurately predict bounding boxes in conjunction with correct class labels.
+
+### 6. **Multi-Scale Training:**
+   - Following variations of YOLO incorporated the technique of multi-scale training, enabling the model to effectively identify objects of diverse dimensions.
+   - During the training process, the network undergoes adjustments to accommodate various resolutions, thereby enhancing its ability to detect objects of different sizes and ultimately improving overall detection performance.
+
+### 7. **Darknet Framework:**
+   - The Darknet framework is often used in YOLO implementations. It is an open-source neural network framework that is coded in C and CUDA.
+   - The program itself is optimized for efficient execution and convenient installation, specifically customized to meet the architectural requirements of YOLO.
+
+### 8. **Advancements in YOLO Versions:**
+   - With the progression of each iteration, such as YOLOv2, YOLOv3, YOLOv4, and so on, various improvements have been incorporated to enhance the accuracy and speed of object detection. These enhancements include better predictions for anchor boxes, the addition of more convolutional layers, and the introduction of additional features such as detection at multiple scales.
+
+### 9. **Integration of Other Architectures:**
+   - The latest iterations of object detection models, such as YOLOv4 and YOLOv5, have incorporated architectural elements and methodologies from other highly effective models in the field. Notably, YOLOv4 has integrated the CSPDarknet53 backbone, PANet, and SAM block, among others, to enhance its overall performance.
+
+### 10. **Real-Time Processing:**
+   - The architectural design of YOLO is specifically tailored to enable real-time object detection, facilitating rapid inference while maintaining satisfactory accuracy. Consequently, YOLO is well-suited for applications that necessitate real-time processing and detection capabilities.
 
 **Real-time detection using YOLOv7 and YOLOv8**:
 
@@ -88,8 +202,6 @@ Ultralytics, the developers of YOLOv5, released YOLOv8 as an advanced model for 
 ---
 
 ### Methodology
-
-methods > workflow design - infographic of pipeline > dataset prep > network arch > training > validation > test > model evaluation
 
 #### Dataset Construction
 
@@ -190,6 +302,42 @@ Confusion matrices play a crucial role in recognizing the effectiveness of class
 ### 1. Summary of Key Findings
 
 The main objective of this study was to assess and analyze the efficacy of YOLOv7 and YOLOv8 models in the domain of real-time object detection within marine environments. The primary objective of this study was to examine the precise identification and classification of Lionfish and Crown Of Thorns starfish (COTs). The evaluation was carried out meticulously, taking into account various metrics including F1 Score, Precision, Recall, and Precision-Recall. The aforementioned methodology was utilized in order to facilitate a comprehensive understanding of the performance of the models.
+
+The selected evaluation metrics, namely F1 Score, Precision, Recall, Precision-Recall, and Confusion Matrix, play a crucial role in comprehending the effectiveness of classification models. The rationale for selecting these metrics, in addition to their corresponding mathematical expressions, are as follows:
+
+1. F1 Score:
+The F1 Score is a metric used to evaluate the accuracy of a model. It is calculated as the harmonic mean of Precision and Recall. The scoring system is defined on a scale from 0 to 1, with a score of 1 representing optimal precision and recall.
+
+\[ F1 = 2 \cdot \left( \frac{ \text{Precision} \cdot \text{Recall} }{ \text{Precision} + \text{Recall} } \right) \]
+
+2. Precision:
+Precision can be defined as the proportion of accurately predicted positive observations in relation to the overall number of predicted positives. It is of utmost importance when the expenses associated with False Positive outcomes are substantial.
+
+\[ \text{Precision} = \frac{ \text{True Positive} }{ \text{True Positive} + \text{False Positive} } \]
+
+3. Recall:
+Recall, also known as Sensitivity, is a metric that quantifies the proportion of correctly predicted positive observations relative to all observations in the actual class. When the cost associated with a False Negative is significant, it becomes imperative.
+The precision metric can be defined as the ratio of true positive instances to the sum of true positive and false positive instances.
+
+\[ \text{Recall} = \frac{ \text{True Positive} }{ \text{True Positive} + \text{False Negative} } \]
+
+4. Precision-Recall:
+The Precision-Recall metric serves as a valuable indicator of prediction performance in scenarios where there is a significant class imbalance. It serves to demonstrate the inherent trade-off between precision and recall.
+
+5. Confusion Matrix:
+The Confusion Matrix provides a matrix-based depiction of the performance of a classifier, illustrating the occurrences of true and false positives and negatives. The evaluation of the model's performance across various classes is crucial for comprehending its effectiveness and aids in the detection of misclassifications.
+
+These metrics were chosen for several reasons:
+
+- **Comprehensiveness**: The provided analysis offers a comprehensive evaluation of model performance by considering various aspects, including the accuracy of predictions, the number of correct and incorrect predictions, as well as the trade-off between false positives and false negatives.
+
+- **Diagnostic**: Diagnostic measures assist in evaluating the efficacy of the model and identifying areas that require enhancement.
+
+- **Relevance**: Within the domain of marine species detection, the importance of minimizing both false negatives, which involve the failure to identify an actual positive case, and false positives, which involve incorrectly identifying a negative case as positive, cannot be overstated. The metrics that have been chosen are directly pertinent to these particular concerns.
+
+- **Comparability**: This feature enables the evaluation and comparison of different models, specifically YOLOv7 and YOLOv8 in this context, on a standardized basis. It facilitates the identification of superior performance and the underlying factors contributing to it.
+
+- **Real-world Implications**: Within the field of marine ecology, the practical significance of misclassification holds considerable weight, thereby rendering the selected metrics highly appropriate for assessing the pragmatic effectiveness of the aforementioned models.
 
 #### 1.1 Performance Across Models:
    
