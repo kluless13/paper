@@ -2,16 +2,6 @@
 
 ### YOLO for Real Time Species Detection - Application for better Conservation Management Efforts.
 
-
-To-do:
-- ~Remove weights from assets~
-- ~Remove API calls from all notebooks~
-- ~Upload confusion matrices~
-- ~Make gifs from .mp4 files~
-- Finish writing paper
-- ~Stack results~
----
-
 ### YOLOv7 for Lionfish output
 
 <a href="https://colab.research.google.com/github/kluless13/paper/blob/main/yolov7_LF.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="YOLOv7-LF"></a>
@@ -116,4 +106,15 @@ Our research extends to the development of a dedicated algorithm for Lionfish de
 
 ---
 
+To-do:
+- ~Remove weights from assets~
+- ~Remove API calls from all notebooks~
+- ~Upload confusion matrices~
+- ~Make gifs from .mp4 files~
+- ~Finish writing paper~
+- ~Stack results~
+
+---
+
+Authors: kluless/Angad; Rama.
 
